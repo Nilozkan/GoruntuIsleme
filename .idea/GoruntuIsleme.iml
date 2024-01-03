@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/acma_kapama" />
+      <excludeFolder url="file://$MODULE_DIR$/contraharmonic_mean" />
+      <excludeFolder url="file://$MODULE_DIR$/gama" />
+      <excludeFolder url="file://$MODULE_DIR$/histogram_esitleme" />
+      <excludeFolder url="file://$MODULE_DIR$/normalizasyn_standardizasyon" />
+      <excludeFolder url="file://$MODULE_DIR$/smooting_sharpening" />
+      <excludeFolder url="file://$MODULE_DIR$/sobel" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="py.test" />
+  </component>
+</module>
